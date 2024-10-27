@@ -14,7 +14,7 @@
   align-items: center;
   color: white;
   overflow: hidden; 
-  background-color: rgb(185, 186, 187);
+  background-color: rgb(125, 180, 182);
   /* position: relative; */
 }
 
@@ -45,7 +45,7 @@
 }
 
 .get-started-btn:hover {
-  background-color: #c1974a;
+  background-color: #93ab7d;
 }
 
 .getstarted_btn {
